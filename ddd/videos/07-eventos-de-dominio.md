@@ -1,0 +1,1 @@
+# [Eventos de Domínio | DDD do jeito certo | Parte 07](https://www.youtube.com/watch?v=_By3QRBMHSo)
